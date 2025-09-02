@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td valign="top" align="center">
+<td valign="top" align="left" style="padding-top: 20px;"> <!-- Espacio arriba del texto -->
 
 🎓 I’m currently studying **Computer Science and Information Technology**  
 🚀 Passionate about exploring new technologies and building innovative solutions  
