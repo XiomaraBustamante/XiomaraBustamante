@@ -1,25 +1,28 @@
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/765496a5-7fe6-4917-bb12-86eb8d848528" />
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
-<h2 align="left">Hello there!  I'm Xiomara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="left">
+  <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="center"/>
+  Hello there! I'm Xiomara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h2>
 
 <table>
 <tr>
 <td valign="top">
 
-🎓 Currently studying **Computer Science and Information Technology**  
+🎓 I’m currently studying **Computer Science and Information Technology**  
 🚀 Passionate about exploring new technologies and building innovative solutions  
 🌱 Continuously learning and improving my skills in **Frontend** and **Backend**  
-💬 Ask me anything — I’ll be happy to help and chat  
-📫 Contact me at: **xiomaraaabust@gmail.com**  
-⚡ Fun fact: I love drawing and enjoy solving coding problems, always looking for new challenges  
+💬 Always open to chat, collaborate, and share knowledge  
+⚡ Fun fact: I love drawing and solving coding challenges  
 
 </td>
 <td valign="top">
-  <img alt="Night Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM1eXN6bTNsbjhxdGJscXlhY3drNjNhZGNpZGxlOXh6ZGNpbncxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+  <img alt="Night Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM1eXN6bTNsbjhxdGJscXlhY3drNjNhZGNpZGxlOXh6ZGNpbncxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="280"/>
 </td>
 </tr>
 </table>
+
+---
 
 ## 🛠️ Tech Stack  
 
@@ -36,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
 </p>
 
+---
 
 ## 🤝🏻 Connect with Me
 
@@ -44,16 +48,16 @@
 </a>
 
 <a href="mailto:xiomaraaabust@gmail.com">
-  <img src="https://img.shields.io/badge/-xiomaraaabust@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-xiomaraaabust-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/xiomaraaabust/">
   <img src="https://img.shields.io/badge/-@xiomaraaabust-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </a>
 
+---
 
-
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics  
 
 <p align="center">
 <a href="https://github.com/xiomarabustamante">
@@ -61,7 +65,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xiomarabustamante&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
 
 
