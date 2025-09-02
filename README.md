@@ -15,16 +15,18 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
