@@ -3,10 +3,9 @@
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 <h2>Hey there! I'm Xiomara👋</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    
-## 👨🏻‍💻 About Me
+<table>
+<tr>
+<td>
 
 🎓 Currently studying **Computer Science and Information Technology**  
 🚀 Passionate about exploring new technologies and building innovative solutions  
@@ -15,10 +14,12 @@
 📫 Contact me at: **xiomaraaabust@gmail.com**  
 ⚡ Fun fact: I love drawing and enjoy solving coding problems, always looking for new challenges  
 
-  </div>
-
+</td>
+<td>
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
-</div>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack  
 
