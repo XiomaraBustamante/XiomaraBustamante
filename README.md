@@ -2,7 +2,9 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Xiomara👋</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+## 👨🏻‍💻About Me
 
 🎓 Currently studying **Computer Science and Information Technology**  
 🚀 Passionate about exploring new technologies and building innovative solutions  
@@ -11,7 +13,6 @@
 💬 Ask me anything — I’ll be happy to help and chat  
 📫 Contact me at: **xiomaraaabust@gmail.com**  
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠️ Tech Stack  
 
