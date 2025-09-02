@@ -16,7 +16,7 @@
 
 </td>
 <td valign="top">
-  <img alt="Night Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFoMWhwcXpnZHUxdDhzMXNtbWJncGtpejQ3cXptazlucG51bncycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300"/>
+  <img alt="Night Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM1eXN6bTNsbjhxdGJscXlhY3drNjNhZGNpZGxlOXh6ZGNpbncxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
 </td>
 </tr>
 </table>
