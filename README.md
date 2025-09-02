@@ -1,4 +1,5 @@
-<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/be5140e2-7338-4948-a962-5d2e14a72a3a" />
+
+<img width=100%  alt="banner" src="https://github.com/user-attachments/assets/765496a5-7fe6-4917-bb12-86eb8d848528" />
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Xiomara👋</h2>
 
