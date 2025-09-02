@@ -1,7 +1,7 @@
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/765496a5-7fe6-4917-bb12-86eb8d848528" />
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
-<h2>Hey there! I'm Xiomara👋</h2>
+<h2 align="left">Hello there!  I'm Xiomara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <table>
 <tr>
