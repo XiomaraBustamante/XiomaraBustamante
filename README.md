@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/be5140e2-7338-4948-a962-5d2e14a72a3a" />
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Xiomara👋</h2>
 
