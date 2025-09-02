@@ -37,13 +37,19 @@
 </p>
 
 
-##🤝🏻Connect with Me
+## 🤝🏻 Connect with Me
 
+<a href="https://www.linkedin.com/in/xiomarabustamante">
+  <img src="https://img.shields.io/badge/-Xiomara%20Bustamante-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
 
-<a href="www.linkedin.com/in/xiomarabustamante"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:xiomaraaabust@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/xiomaraaabust/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:xiomaraaabust@gmail.com">
+  <img src="https://img.shields.io/badge/-xiomaraaabust@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.instagram.com/xiomaraaabust/">
+  <img src="https://img.shields.io/badge/-@xiomaraaabust-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+</a>
 
 
 
