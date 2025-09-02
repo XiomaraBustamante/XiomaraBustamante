@@ -1,11 +1,12 @@
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/765496a5-7fe6-4917-bb12-86eb8d848528" />
 
-<img width=100%  alt="banner" src="https://github.com/user-attachments/assets/765496a5-7fe6-4917-bb12-86eb8d848528" />
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
+<h2>Hey there! I'm Xiomara👋</h2>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Xiomara👋</h2>
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-## 👨🏻‍💻About Me
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    
+## 👨🏻‍💻 About Me
 
 🎓 Currently studying **Computer Science and Information Technology**  
 🚀 Passionate about exploring new technologies and building innovative solutions  
@@ -13,6 +14,11 @@
 💬 Ask me anything — I’ll be happy to help and chat  
 📫 Contact me at: **xiomaraaabust@gmail.com**  
 ⚡ Fun fact: I love drawing and enjoy solving coding problems, always looking for new challenges  
+
+  </div>
+
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
+</div>
 
 ## 🛠️ Tech Stack  
 
