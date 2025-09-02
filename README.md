@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋,  I'm Xiomara. 
 
-<!--
-**XiomaraBustamante/XiomaraBustamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 About Me  
+
+🎓 Currently studying **Computer Science and Information Technology**  
+🚀 Passionate about exploring new technologies and building innovative solutions  
+🌱 Continuously learning and improving my skills in **Frontend** and **Backend**  
+⚡ Fun fact: I love drawing and enjoy solving coding problems, always looking for new challenges  
+💬 Ask me anything — I’ll be happy to help and chat  
+📫 Contact me at: **xiomaraaabust@gmail.com**  
